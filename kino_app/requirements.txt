@@ -1,8 +1,0 @@
-pandas
-numpy
-streamlit
-openpyxl
-pyarrow
-anthropic
-openai
-requests
